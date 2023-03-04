@@ -79,7 +79,7 @@
 #include <chrono>
 #include <thread>
 
-#include "PalApi.h"
+#include <inc/PalApi.h>
 #include <audio_effects/effect_aec.h>
 #include <audio_effects/effect_ns.h>
 #include "audio_extn.h"

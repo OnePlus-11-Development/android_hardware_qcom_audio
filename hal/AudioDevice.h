@@ -49,7 +49,7 @@
 
 #include "AudioStream.h"
 #include "AudioVoice.h"
-#include "PalDefs.h"
+#include <inc/PalDefs.h>
 
 #define MAX_PERF_LOCK_OPTS 20
 

@@ -40,7 +40,7 @@
 #include <log/log.h>
 #include <hardware/audio_effect.h>
 #include <cutils/properties.h>
-#include "PalDefs.h"
+#include <inc/PalDefs.h>
 
 #define PRIMARY_HAL_PATH XSTR(LIB_AUDIO_HAL)
 #define XSTR(x) STR(x)

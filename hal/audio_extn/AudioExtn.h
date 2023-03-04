@@ -37,7 +37,7 @@
 #include <set>
 #include <atomic>
 #include <unordered_map>
-#include "PalDefs.h"
+#include <inc/PalDefs.h>
 #include "audio_defs.h"
 #include <log/log.h>
 #include "battery_listener.h"
