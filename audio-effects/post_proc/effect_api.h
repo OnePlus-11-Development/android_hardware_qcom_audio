@@ -29,7 +29,7 @@
 
 #ifndef OFFLOAD_EFFECT_API_H_
 #define OFFLOAD_EFFECT_API_H_
-#include "PalApi.h"
+#include <inc/PalApi.h>
 
 
 #define EQ_PARAM_LATENCY 0x80000000

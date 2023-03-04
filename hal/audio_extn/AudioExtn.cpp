@@ -36,7 +36,7 @@
 #include <unistd.h>
 #include "AudioExtn.h"
 #include "AudioDevice.h"
-#include "PalApi.h"
+#include <inc/PalApi.h>
 #include <cutils/properties.h>
 #include "AudioCommon.h"
 #define AUDIO_OUTPUT_BIT_WIDTH ((config_->offload_info.bit_width == 32) ? 24:config_->offload_info.bit_width)

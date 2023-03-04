@@ -35,7 +35,7 @@
 #include <log/log.h>
 #include <unistd.h>
 #include <cutils/properties.h>
-#include "PalApi.h"
+#include <inc/PalApi.h>
 #include "AudioDevice.h"
 #include "AudioCommon.h"
 

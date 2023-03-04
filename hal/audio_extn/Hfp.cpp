@@ -45,7 +45,7 @@
 #include <dlfcn.h>
 #include <math.h>
 #include <cutils/properties.h>
-#include "PalApi.h"
+#include <inc/PalApi.h>
 #include "AudioDevice.h"
 
 #ifdef __cplusplus

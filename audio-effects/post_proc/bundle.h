@@ -22,7 +22,7 @@
 
 #include <sound/audio_effects.h>
 #include "effect_api.h"
-#include "PalApi.h"
+#include <inc/PalApi.h>
 
 
 /* Retry for delay for mixer open */
