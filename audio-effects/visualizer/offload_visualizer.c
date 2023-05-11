@@ -30,7 +30,7 @@
 #include <log/log.h>
 #include <system/thread_defs.h>
 #include <audio_effects/effect_visualizer.h>
-#include <inc/PalApi.h>
+#include "PalApi.h"
 
 #ifdef AUDIO_FEATURE_ENABLED_GCOV
 extern void  __gcov_flush();
