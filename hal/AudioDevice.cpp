@@ -57,8 +57,8 @@
 #include <map>
 #include<algorithm>
 
-#include <inc/PalApi.h>
-#include <inc/PalDefs.h>
+#include "PalApi.h"
+#include "PalDefs.h"
 
 #include <audio_extn/AudioExtn.h>
 #include "audio_extn.h"

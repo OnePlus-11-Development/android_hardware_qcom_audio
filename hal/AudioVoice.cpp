@@ -36,7 +36,7 @@
 #include <cutils/str_parms.h>
 #include "audio_extn.h"
 #include "AudioVoice.h"
-#include <inc/PalApi.h>
+#include "PalApi.h"
 #include "AudioCommon.h"
 #include <audio_extn/AudioExtn.h>
 

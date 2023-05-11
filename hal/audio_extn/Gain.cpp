@@ -32,8 +32,8 @@
  */
 
 #define LOG_TAG "AHAL: Gain"
-#include <inc/PalApi.h>
-#include <inc/PalDefs.h>
+#include "PalApi.h"
+#include "PalDefs.h"
 #include "audio_extn.h"
 #include "AudioCommon.h"
 
